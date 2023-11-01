@@ -1,7 +1,7 @@
 # Mapping_Earthquakes
 --------------------------------------------------
 
-**Deployed Map URL**: <https://susiexia.github.io/Mapping_Earthquakes/>
+**Deployed Map URL**: <https://dhatchanamoorthi34.github.io/Mapping_Earthquakes/>
 
 --------------------------------------------------
 
